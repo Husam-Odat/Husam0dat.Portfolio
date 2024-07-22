@@ -134,6 +134,7 @@
                 arrows: true,
                 adaptiveHeight: true,
                 cssEase: 'linear',
+                speed: 0,
                 // prevArrow: '<button class="slide-arrow prev-arrow"><i class="feather-arrow-left"></i></button>',
                 // nextArrow: '<button class="slide-arrow next-arrow"><i class="feather-arrow-right"></i></button>'
             });
@@ -146,6 +147,7 @@
                 arrows: true,
                 adaptiveHeight: true,
                 cssEase: 'linear',
+                speed: 0,
                 // prevArrow: '<button class="slide-arrow prev-arrow"><i class="feather-chevron-left"></i></button>',
                 // nextArrow: '<button class="slide-arrow next-arrow"><i class="feather-chevron-right"></i></button>',
                 responsive: [{
@@ -165,6 +167,7 @@
                 arrows: true,
                 cssEase: 'linear',
                 adaptiveHeight: true,
+                speed: 0,
                 // prevArrow: '<button class="slide-arrow prev-arrow"><i class="feather-arrow-left"></i></button>',
                 // nextArrow: '<button class="slide-arrow next-arrow"><i class="feather-arrow-right"></i></button>',
                 responsive: [{
@@ -202,6 +205,9 @@
                 arrows: true,
                 cssEase: 'linear',
                 adaptiveHeight: true,
+
+                speed: 0,
+
                 // prevArrow: '<button class="slide-arrow prev-arrow"><i class="feather-arrow-left"></i></button>',
                 // nextArrow: '<button class="slide-arrow next-arrow"><i class="feather-arrow-right"></i></button>',
                 responsive: [{
@@ -238,6 +244,8 @@
                 slidesToShow: 3,
                 slidesToScroll: 1,
                 adaptiveHeight: true,
+                speed: 0,
+
                 // prevArrow: '<button class="slide-arrow prev-arrow"><i class="feather-chevron-left"></i></button>',
                 // nextArrow: '<button class="slide-arrow next-arrow"><i class="feather-chevron-right"></i></button>',
                 responsive: [{
@@ -274,6 +282,8 @@
                 slidesToShow: 4,
                 slidesToScroll: 1,
                 adaptiveHeight: true,
+                speed: 0,
+
                 // prevArrow: '<button class="slide-arrow prev-arrow"><i class="feather-chevron-left"></i></button>',
                 // nextArrow: '<button class="slide-arrow next-arrow"><i class="feather-chevron-right"></i></button>',
                 responsive: [{
